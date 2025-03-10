@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zoe CHervaux\\Programmation\\C\u002B\u002B\\MyGameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4533B5F-19FF-42BF-9B65-806B2F29EBD9}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Zoe CHervaux\\Programmation\\C\u002B\u002B\\MyGameEngine\\MyGameEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4533B5F-19FF-42BF-9B65-806B2F29EBD9}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Zoe CHervaux\\Programmation\\C\u002B\u002B\\MyGameEngine\\MyGameEngine\\main.cpp",
+              "RelativeDocumentMoniker": "MyGameEngine\\main.cpp",
+              "ToolTip": "D:\\Zoe CHervaux\\Programmation\\C\u002B\u002B\\MyGameEngine\\MyGameEngine\\main.cpp",
+              "RelativeToolTip": "MyGameEngine\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T13:23:32.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

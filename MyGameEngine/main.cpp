@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <SDL.h>
-#include <GL/glew.h>
+#include <glew.h>
 using namespace std;
 
 #define GLEW_STATIC
